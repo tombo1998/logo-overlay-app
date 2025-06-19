@@ -1,4 +1,4 @@
 streamlit==1.46.0
 pillow>=10.4.0
-rembg==2.0.66  # Version compatible avec Python 3.13.5
-onnxruntime==1.17.1  # Version compatible avec Python 3.13.5
+rembg==2.0.66  # Version compatible avec Python 3.13
+onnxruntime==1.22.0  # Version compatible avec Python 3.13
